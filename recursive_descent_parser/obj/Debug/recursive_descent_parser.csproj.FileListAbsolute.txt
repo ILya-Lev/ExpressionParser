@@ -1,0 +1,6 @@
+L:\programming\study\DevArt\recursive_descent_parser\recursive_descent_parser\bin\Debug\recursive_descent_parser.exe.config
+L:\programming\study\DevArt\recursive_descent_parser\recursive_descent_parser\bin\Debug\recursive_descent_parser.exe
+L:\programming\study\DevArt\recursive_descent_parser\recursive_descent_parser\bin\Debug\recursive_descent_parser.pdb
+L:\programming\study\DevArt\recursive_descent_parser\recursive_descent_parser\obj\Debug\recursive_descent_parser.csprojResolveAssemblyReference.cache
+L:\programming\study\DevArt\recursive_descent_parser\recursive_descent_parser\obj\Debug\recursive_descent_parser.exe
+L:\programming\study\DevArt\recursive_descent_parser\recursive_descent_parser\obj\Debug\recursive_descent_parser.pdb
